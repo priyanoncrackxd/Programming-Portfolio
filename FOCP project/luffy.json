@@ -1,0 +1,44 @@
+{
+    "agent_names": ["Prasun", "Saurav", "Son goku", "Bam","shubham"],
+    "replies": {
+        "ssd": "The Student Service Department (SSD) is on the third floor, where you can get help and info regarding the college.",
+        "cafe": "If youre looking for The British Cafe its in the ground floor which is open from 8:00 AM to 5:00 PM.",
+        "library": "The library is open from 6:00 AM to 5:00 PM for students.",
+        "sports": "The uni offers facilities that include a gym, basketball court, pool tables, etc.",
+        "admissions": "You can find admissions information on our website or by contacting the SSD.",
+        "food": "The food sections are on the outside part of the building.",
+        "teachers": "The teachers information is available at the SSD.",
+        "orbund": "A platform made for TBC where teachers can share classroom information through the web",
+        "agents name": "The number of agents available are 5 that includes Bam, Prasun, Saurav, Son goku and shubham.",
+        "ok": "Is there anything i can help you with?",
+        "yes": "Im here at your service!",
+        "no":"Can i help you with anything else?",
+        "thank you":"Youre welcome!",
+        "thanks":"Youre welcome!",
+        "info": "The chatbot can provide informations like ssd, cafe, library, sports and much more. Can i assist with anything?"
+    },
+    "random_responses": [
+        "Hmm, Good question! Let me think about.",
+        "This is not a topic regarding college, could you specify further?",
+        "I'll have a look about it",
+        "I don't know about that. Is there another way I can assist you?",
+        "Good question! But I don't have an answer about it.",
+        "Good question. I'll have to look that up."
+    ],
+    "jokes": [
+        "What did one ocean say to the other ocean? Nothing, they just waved.",
+        "Did you SEA what I did there? I'm shore you did.",
+        "Why did the coffee file a police report? Because it got mugged!",
+        "Parallel lines have so much in common. Its a shame theyll never meet.",
+        "I'm reading a book on anti-gravity. It's impossible to put down!",
+        "I told my wife she should embrace her mistakes. She gave me a hug.",
+        "Why dont skeletons fight each other? They dont have the guts.",
+        "I used to hate facial hair. But then it grew on me.",
+        "Why couldn't the bicycle stand up by itself? It was two tired.",
+        "Im on a seafood diet. I see food, and I eat it.",
+        "Why was the math book sad? It had too many problems.",
+        "How does a penguin build its house? Igloos it together.",
+        "Why don't eggs tell jokes? They'd crack each other up.",
+        "What do you call fake spaghetti? An impasta!"
+    ]
+}
