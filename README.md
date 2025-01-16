@@ -1,2 +1,2 @@
 # FOCP-SEM-3-
-contents of the subject FOCP 
+This is the repo for the contents of the subject FOCP that includes assignments and projects.
